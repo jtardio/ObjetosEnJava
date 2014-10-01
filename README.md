@@ -15,5 +15,5 @@ Ex.2 - Se pone en práctica el concepto de herencia donde se reutilizan variable
 Ejecución de la aplicación:
 
 	Maven --> ObjetosJava
-	RB --> Run as --> Java Application --> PurebaFormas.java
+	RB --> Run as --> Java Application --> PruebaFormas.java
 	
